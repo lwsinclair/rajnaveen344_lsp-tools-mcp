@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/mcp-mirror-rajnaveen344-lsp-tools-mcp-badge.jpg)](https://mseep.ai/app/mcp-mirror-rajnaveen344-lsp-tools-mcp)
+
 # LSP Tools MCP Server
 
 A Model Context Protocol (MCP) server providing Language Server Protocol-like functionality for text analysis.
